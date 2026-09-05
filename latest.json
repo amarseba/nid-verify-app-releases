@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.1",
-  "min_version": "1.0.1",
-  "notes": "Maintenance release \u2014 build pipeline updated (actions/checkout@v5, Node 24). No functional changes to the app.",
-  "android_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.0.1/amarseba-nid-verify.apk",
+  "latest_version": "1.1.0",
+  "min_version": "1.1.0",
+  "notes": "Amarseba NID Verify 1.1.0 \u2014 full Windows desktop support and a session timer.\n\nNew\n- Windows: the NID portal now loads reliably. The app detects and sets up the Edge WebView2 runtime and shows a clear Install / Retry screen instead of the old blank page.\n- A session countdown appears after pairing (app and web), synced to server time, so you always know how long you have to finish.\n- Desktop pairing is code-entry only \u2014 no camera needed.\n\nFixes & polish\n- Deep links reuse the existing window instead of opening a new one each time.\n- Cleaner verification header.\n- Installer publisher/branding (Dhorola Amarseba Ltd) and automatic versioning.\n\nInstall\n- Android 8.0+: amarseba-nid-verify.apk\n- Windows 10/11 (64-bit): amarseba-nid-verify-setup.exe",
+  "android_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.1.0/amarseba-nid-verify.apk",
   "android_name": "amarseba-nid-verify.apk",
-  "windows_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.0.1/amarseba-nid-verify-setup.exe",
+  "windows_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.1.0/amarseba-nid-verify-setup.exe",
   "windows_name": "amarseba-nid-verify-setup.exe"
 }
