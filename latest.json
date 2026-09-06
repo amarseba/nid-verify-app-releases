@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.2.1",
-  "min_version": "1.2.1",
+  "latest_version": "1.2.2",
+  "min_version": "1.2.2",
   "notes": "- Performance and reliability improvements.",
-  "android_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.1/amarseba-nid-verify.apk",
+  "android_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.2/amarseba-nid-verify.apk",
   "android_name": "amarseba-nid-verify.apk",
-  "android_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.1/amarseba-nid-verify.apk",
-  "windows_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.1/amarseba-nid-verify-setup.exe",
+  "android_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.2/amarseba-nid-verify.apk",
+  "windows_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.2/amarseba-nid-verify-setup.exe",
   "windows_name": "amarseba-nid-verify-setup.exe",
-  "windows_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.1/amarseba-nid-verify-setup.exe"
+  "windows_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.2/amarseba-nid-verify-setup.exe"
 }
