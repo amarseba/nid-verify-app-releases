@@ -1,11 +1,17 @@
 {
-  "latest_version": "1.2.2",
-  "min_version": "1.2.2",
-  "notes": "- Performance and reliability improvements.",
-  "android_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.2/amarseba-nid-verify.apk",
+  "manifest_version": 2,
+  "published_at": "2026-09-25T05:47:00Z",
+  "android_sha256": "e7c665b24d4a9722f40a6950bd023a8d3df39aa1a2e3be7bbc182a0e25b333a5",
+  "android_size": 36104860,
+  "windows_sha256": "a24e7ca0b973b20459c3bfa707e89b73ba4a17bb304db2840b3a889bb457016c",
+  "windows_size": 11737700,
+  "latest_version": "1.3.0",
+  "min_version": "1.3.0",
+  "notes": "## NID Verify 1.3.0\n\n- Reads your NID profile in English and Bangla, with a fresh, secure portal session every time.\n- A clear four-step verifying screen: Reading your NID profile, Checking your details, Saving to your account, Signing you out securely.\n- Signs you out of the NID portal automatically after verification.\n- More time on slow networks: the session is extended once you log in.\n- Clear messages in English and Bangla when something needs a retry.\n- Safer updates: every update is signed and checked before it installs.\n",
+  "android_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.3.0/amarseba-nid-verify.apk",
   "android_name": "amarseba-nid-verify.apk",
-  "android_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.2/amarseba-nid-verify.apk",
-  "windows_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.2.2/amarseba-nid-verify-setup.exe",
+  "android_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.3.0/amarseba-nid-verify.apk",
+  "windows_url": "https://cdn.e-amarseba.com/amarseba/clients/nid-verify-app/v1.3.0/amarseba-nid-verify-setup.exe",
   "windows_name": "amarseba-nid-verify-setup.exe",
-  "windows_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.2.2/amarseba-nid-verify-setup.exe"
+  "windows_fallback_url": "https://github.com/amarseba/nid-verify-app-releases/releases/download/v1.3.0/amarseba-nid-verify-setup.exe"
 }
